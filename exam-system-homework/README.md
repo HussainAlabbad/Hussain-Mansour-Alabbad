@@ -5,15 +5,17 @@
 مخطط نظام الاختبارات والسودوكود حقه، بالإضافة إلى رحلة الطالب التفصيلية.
 
 ## مخطط الذهني (Mind Map)
-![نظام الاختبارات - رحلة الطالب](نظام_الاختبارات___رحلة_الطالب.png)
 يمكنك استعراض رحلة الطالب بشكل تفاعلي وتفصيلي من خلال الرابط أدناه:
+<img width="743" height="552" alt="نظام الاختبارات — رحلة الطالب" src="https://github.com/user-attachments/assets/7c2dbcc1-657e-4c45-9c84-eeee6f9fe056" />
+
 * 🔗 [**اضغط هنا لفتح المخطط التفاعلي على XMind Cloud**](https://app.xmind.com/share/R9k0UVoJ?xid=7yR04nJY)
 
 ---
 
 ## المخطط الانسيابي - صورة
 ![Flowchart](Untitled_diagram-2026-05-04-133028.png)
-```mermaid
+```mermaid<img width="743" height="552" alt="نظام الاختبارات — رحلة الطالب" src="https://github.com/user-attachments/assets/a89b1c98-6384-4824-b47d-4be68b693ddb" />
+
 graph TD
     %% بداية الرحلة
     Start([بداية الرحلة]) --> VisitSystem[زيارة موقع نظام الاختبارات]
