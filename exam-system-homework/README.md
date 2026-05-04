@@ -13,7 +13,8 @@
 ---
 
 ## المخطط الانسيابي - صورة
-![Flowchart](Untitled_diagram-2026-05-04-133028.png)
+<img width="2773" height="8192" alt="Untitled diagram-2026-05-04-140331" src="https://github.com/user-attachments/assets/28c39303-4db0-487f-8be1-88cb090f1057" />
+
 ```mermaid<img width="743" height="552" alt="نظام الاختبارات — رحلة الطالب" src="https://github.com/user-attachments/assets/a89b1c98-6384-4824-b47d-4be68b693ddb" />
 
 graph TD
